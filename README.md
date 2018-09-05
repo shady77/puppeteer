@@ -1,4 +1,4 @@
-# postgres-plv8
+# Puppeteer for Gitlab CI
 
 Docker images for running [puppeteer] on Gitlab CI 
 
@@ -8,6 +8,6 @@ Docker images for running [puppeteer] on Gitlab CI
 
 This image is officially supported on Docker version 1.10, with support for older versions provided on a best-effort basis.
 
-[docker-hub-url]: https://hub.docker.com/r/shadowy/plv8/
-[docker-pulls-image]: https://img.shields.io/docker/pulls/shadowy/plv8.svg?style=flat-square
-[docker-stars-image]: https://img.shields.io/docker/stars/shadowy/plv8.svg?style=flat-square
+[docker-hub-url]: https://hub.docker.com/r/shadowy/puppeteer/
+[docker-pulls-image]: https://img.shields.io/docker/pulls/shadowy/puppeteer.svg?style=flat-square
+[docker-stars-image]: https://img.shields.io/docker/stars/shadowy/puppeteer.svg?style=flat-square
